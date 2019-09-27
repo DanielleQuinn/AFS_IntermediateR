@@ -13,18 +13,18 @@ This repository contains the materials used in the 29 September 2019 Intermediat
 
 4. Unzip these files into a folder on your Desktop called "AFS_IntermediateR"  
 
-### Code:  
+#### Code:  
 **intermediateR_BLANK.R** includes an outline and can be used to code along with the instructor (recommended)  
 **intermediateR.R** includes notes and code  
 
-### Data:  
+#### Data:  
 **working_data.txt**  
 **park_details.txt**  
 **ACAD.csv**  
 **REDW_records.txt**  
 **REDW_species.txt**  
 
-### Other:  
+#### Other:  
 **acadia_print_out.docx** and **redwood_print_out.docx** diagrams comparing these data sets to the working data  
 **join_family.PNG** and **alluvial_plot.PNG** visual aids
 
