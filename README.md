@@ -27,3 +27,5 @@ This repository contains the materials used in the 29 September 2019 Intermediat
 ### Other:  
 **acadia_print_out.docx** and **redwood_print_out.docx** diagrams comparing these data sets to the working data  
 **join_family.PNG** and **alluvial_plot.PNG** visual aids
+
+## If you are not familiar with R and/or have not used {dplyr} or {ggplot2} prior to this workshop, please review [these materials from the introduction to R workshop](https://github.com/DanielleQuinn/AFS_IntroR)
