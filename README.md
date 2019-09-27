@@ -29,3 +29,8 @@ This repository contains the materials used in the 29 September 2019 Intermediat
 **join_family.PNG** and **alluvial_plot.PNG** (additional visual aids)  
 
 ## If you are not familiar with R and/or have not used {dplyr} or {ggplot2} prior to this workshop, please review [these materials from the Introduction to R workshop](https://github.com/DanielleQuinn/AFS_IntroR)
+
+
+#### Data Sources  
+*The data used in this workshop is a modified version of the publically avilable data cited below. It is used only as a teaching tool and the modifications and/or use of this data for the purpose of this workshop is not representative of the original data or its intentions.*  
+Biodiversity in National Parks. National Park Service. Available on Kaggle.com at https://www.kaggle.com/nationalparkservice/park-biodiversity
