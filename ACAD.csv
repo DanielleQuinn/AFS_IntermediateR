@@ -1,0 +1,16 @@
+"RECORD","ID","PARK.NAME","CATEGORY","ORDER","FAMILY","SCIENTIFIC.NAME","COMMON.NAME","RECORD.STATUS","OCCURRENCE","NATIVENESS","ABUNDANCE","SEASONALITY","CONSERVATION.STATUS"
+"ACAD","1430","Acadia National Park","Amphibian","Anura","Bufonidae","Bufo americanus","American Toad","Approved","Present","Native","Uncommon","Breeder",NA
+"ACAD","1431","Acadia National Park","Amphibian",NA,"Hylidae","Hyla versicolor","Gray Treefrog","Approved","Not Present (Historical Report)","Unknown",NA,NA,NA
+"ACAD","1432","Acadia National Park","Amphibian",NA,NA,"Pseudacris crucifer","Spring Peeper","Approved","Present","Native","Abundant","Breeder",NA
+"ACAD","1433","Acadia National Park","Amphibian",NA,"Ranidae","Rana catesbeiana","Bullfrog","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1434","Acadia National Park","Amphibian",NA,NA,"Rana clamitans","Green Frog","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1435","Acadia National Park","Amphibian",NA,NA,"Rana palustris","Pickerel Frog","Approved","Present","Native","Abundant","Breeder",NA
+"ACAD","1436","Acadia National Park","Amphibian",NA,NA,"Rana pipiens","Northern Leopard Frog","Approved","Not Present (Historical Report)","Unknown",NA,NA,NA
+"ACAD","1437","Acadia National Park","Amphibian",NA,NA,"Rana sylvatica","Wood Frog","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1438","Acadia National Park","Amphibian","Caudata","Ambystomatidae","Ambystoma laterale","Blue-Spotted Salamander","Approved","Not Confirmed","Not Native",NA,NA,NA
+"ACAD","1439","Acadia National Park","Amphibian",NA,NA,"Ambystoma maculatum","Spotted Salamander","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1440","Acadia National Park","Amphibian",NA,"Plethodontidae","Desmognathus fuscus","Northern Dusky Salamander","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1441","Acadia National Park","Amphibian",NA,NA,"Eurycea bislineata","Northern Two-Lined Salamander","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1442","Acadia National Park","Amphibian",NA,NA,"Hemidactylium scutatum","Four-Toed Salamander","Approved","Present","Native","Common","Breeder",NA
+"ACAD","1443","Acadia National Park","Amphibian",NA,NA,"Plethodon cinereus","Eastern Red-Backed Salamander","Approved","Not Present (Historical Report)","Native",NA,"Breeder",NA
+"ACAD","1444","Acadia National Park","Amphibian",NA,"Salamandridae","Notophthalmus viridescens","Eastern Newt","Approved","Present","Native","Uncommon","Breeder",NA

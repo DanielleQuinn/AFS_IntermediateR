@@ -1,0 +1,57 @@
+"park.code"	"park.name"	"state"	"secondary"	"acres"	"latitude"	"longitude"
+"ACAD"	"Acadia National Park"	"ME"	NA	47390	44.35	-68.21
+"ARCH"	"Arches National Park"	"UT"	NA	76519	38.68	-109.57
+"BADL"	"Badlands National Park"	"SD"	NA	242756	43.75	-102.5
+"BIBE"	"Big Bend National Park"	"TX"	NA	801163	29.25	-103.25
+"BISC"	"Biscayne National Park"	"FL"	NA	172924	25.65	-80.08
+"BLCA"	"Black Canyon of the Gunnison National Park"	"CO"	NA	32950	38.57	-107.72
+"BRCA"	"Bryce Canyon National Park"	"UT"	NA	35835	37.57	-112.18
+"CANY"	"Canyonlands National Park"	"UT"	NA	337598	38.2	-109.93
+"CARE"	"Capitol Reef National Park"	"UT"	NA	241904	38.2	-111.17
+"CAVE"	"Carlsbad Caverns National Park"	"NM"	NA	46766	32.17	-104.44
+"CHIS"	"Channel Islands National Park"	"CA"	NA	249561	34.01	-119.42
+"CONG"	"Congaree National Park"	"SC"	NA	26546	33.78	-80.78
+"CRLA"	"Crater Lake National Park"	"OR"	NA	183224	42.94	-122.1
+"CUVA"	"Cuyahoga Valley National Park"	"OH"	NA	32950	41.24	-81.55
+"DENA"	"Denali National Park and Preserve"	"AK"	NA	3372402	63.33	-150.5
+"DEVA"	"Death Valley National Park"	"CA"	"NV"	4740912	36.24	-116.82
+"DRTO"	"Dry Tortugas National Park"	"FL"	NA	64701	24.63	-82.87
+"EVER"	"Everglades National Park"	"FL"	NA	1508538	25.32	-80.93
+"GAAR"	"Gates Of The Arctic National Park and Preserve"	"AK"	NA	7523898	67.78	-153.3
+"GLAC"	"Glacier National Park"	"MT"	NA	1013572	48.8	-114
+"GLBA"	"Glacier Bay National Park and Preserve"	"AK"	NA	3224840	58.5	-137
+"GRBA"	"Great Basin National Park"	"NV"	NA	77180	38.98	-114.3
+"GRCA"	"Grand Canyon National Park"	"AZ"	NA	1217403	36.06	-112.14
+"GRSA"	"Great Sand Dunes National Park and Preserve"	"CO"	NA	42984	37.73	-105.51
+"GRSM"	"Great Smoky Mountains National Park"	"TN"	"NC"	521490	35.68	-83.53
+"GRTE"	"Grand Teton National Park"	"WY"	NA	309995	43.73	-110.8
+"GUMO"	"Guadalupe Mountains National Park"	"TX"	NA	86416	31.92	-104.87
+"HALE"	"Haleakala National Park"	"HI"	NA	29094	20.72	-156.17
+"HAVO"	"Hawaii Volcanoes National Park"	"HI"	NA	323431	19.38	-155.2
+"HOSP"	"Hot Springs National Park"	"AR"	NA	5550	34.51	-93.05
+"ISRO"	"Isle Royale National Park"	"MI"	NA	571790	48.1	-88.55
+"JOTR"	"Joshua Tree National Park"	"CA"	NA	789745	33.79	-115.9
+"KATM"	"Katmai National Park and Preserve"	"AK"	NA	3674530	58.5	-155
+"KEFJ"	"Kenai Fjords National Park"	"AK"	NA	669983	59.92	-149.65
+"KOVA"	"Kobuk Valley National Park"	"AK"	NA	1750717	67.55	-159.28
+"LACL"	"Lake Clark National Park and Preserve"	"AK"	NA	2619733	60.97	-153.42
+"LAVO"	"Lassen Volcanic National Park"	"CA"	NA	106372	40.49	-121.51
+"MACA"	"Mammoth Cave National Park"	"KY"	NA	52830	37.18	-86.1
+"MEVE"	"Mesa Verde National Park"	"CO"	NA	52122	37.18	-108.49
+"MORA"	"Mount Rainier National Park"	"WA"	NA	235625	46.85	-121.75
+"NOCA"	"North Cascades National Park"	"WA"	NA	504781	48.7	-121.2
+"OLYM"	"Olympic National Park"	"WA"	NA	922651	47.97	-123.5
+"PEFO"	"Petrified Forest National Park"	"AZ"	NA	93533	35.07	-109.78
+"PINN"	"Pinnacles National Park"	"CA"	NA	26606	36.48	-121.16
+"REDW"	"Redwood National Park"	"CA"	NA	112512	41.3	-124
+"ROMO"	"Rocky Mountain National Park"	"CO"	NA	265828	40.4	-105.58
+"SAGU"	"Saguaro National Park"	"AZ"	NA	91440	32.25	-110.5
+"SEKI"	"Sequoia and Kings Canyon National Parks"	"CA"	NA	865952	36.43	-118.68
+"SHEN"	"Shenandoah National Park"	"VA"	NA	199045	38.53	-78.35
+"THRO"	"Theodore Roosevelt National Park"	"ND"	NA	70447	46.97	-103.45
+"VOYA"	"Voyageurs National Park"	"MN"	NA	218200	48.5	-92.88
+"WICA"	"Wind Cave National Park"	"SD"	NA	28295	43.57	-103.48
+"WRST"	"Wrangell - St Elias National Park and Preserve"	"AK"	NA	8323148	61	-142
+"YELL"	"Yellowstone National Park"	"WY"	"MT"	2219791	44.6	-110.5
+"YOSE"	"Yosemite National Park"	"CA"	NA	761266	37.83	-119.5
+"ZION"	"Zion National Park"	"UT"	NA	146598	37.3	-113.05

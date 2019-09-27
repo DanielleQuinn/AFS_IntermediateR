@@ -1,0 +1,34 @@
+"park.name"	"category"	"order"	"family"	"scientific.name"	"common.name"	"conservation.status"	"nativeness"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Aneides lugubris"	"Arboreal Salamander"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Aneides flavipunctatus"	"Black Salamanders"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana"	"Brown Frogs"	NA	NA
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana catesbeiana"	"Bullfrog"	NA	"Not Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Salamandridae"	"Taricha torosa"	"California Newt"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Batrachoseps attenuatus"	"California Slender Salamander"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Aneides"	"Climbing Salamanders"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Plethodon elongatus"	"Del Norte Salamanders"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Plethodon dunni"	"Dunn's Salamander"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Ensatina eschscholtzii"	"Ensatina"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana boylii"	"Foothill Yellow-Legged Frog"	"Under Review"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Ambystomatidae"	"Ambystoma"	"Mole Salamanders"	NA	NA
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana muscosa"	"Mountain Yellow-Legged Frog"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana cateesbeiana"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Ambystomatidae"	"Dicourptodon ensatus"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Batrachoseps attenuatis"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Ensatina echscholtzi oregonensis"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Ensatina eschscholtzi"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Ensatina eschscholtzi picta"	"None"	NA	NA
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Plethodon elongatus elongatus"	"None"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana aurora aurora"	"Northern Red-Legged Frog"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Ambystomatidae"	"Ambystoma gracile"	"Northwestern Salamander"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Ambystomatidae"	"Dicamptodon tenebrosus"	"Pacific Giant Salamander"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Salamandridae"	"Taricha"	"Pacific Newts"	NA	NA
+"Redwood National Park"	"Amphibian"	"Anura"	"Hylidae"	"Hyla regilla"	"Pacific Treefrog"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Ensatina eschscholtzii picta"	"Painted Ensatina"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Salamandridae"	"Taricha rivularis"	"Red-Bellied Newt"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Ranidae"	"Rana aurora"	"Red-Legged Frog"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Salamandridae"	"Taricha granulosa"	"Rough-Skinned Newt"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Rhyacotritonidae"	"Rhyacotriton variegatus"	"Southern Torrent Salamander"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Leiopelmatidae"	"Ascaphus truei"	"Tailed Frog"	"Species of Concern"	"Native"
+"Redwood National Park"	"Amphibian"	"Caudata"	"Plethodontidae"	"Aneides vagrans"	"Wandering Salamanders"	NA	"Native"
+"Redwood National Park"	"Amphibian"	"Anura"	"Bufonidae"	"Bufo boreas"	"Western Toad"	"Species of Concern"	"Native"
