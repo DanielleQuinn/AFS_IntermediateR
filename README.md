@@ -32,5 +32,5 @@ This repository contains the materials used in the 29 September 2019 Intermediat
 
 
 #### Data Sources  
-*The data used in this workshop is a modified version of the publically avilable data cited below. It is used only as a teaching tool and the modifications and/or use of this data for the purpose of this workshop is not representative of the original data or its intentions.*  
+*The data used in this workshop is a modified version of the publicly avilable data cited below. It is used only as a teaching tool and the modifications and/or use of this data for the purpose of this workshop is not representative of the original data or its intentions.*  
 Biodiversity in National Parks. National Park Service. Available on Kaggle.com at https://www.kaggle.com/nationalparkservice/park-biodiversity
